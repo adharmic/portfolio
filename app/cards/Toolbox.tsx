@@ -18,26 +18,21 @@ export default function Toolbox() {
         personal and professional skill development.
       </div>
       <Card>
-        <Heading className="bg-secondary p-1">Front End Development</Heading>
+        <Heading className="bg-secondary p-1">Programming</Heading>
         <div className="flex items-center mt-2 justify-around">
           <Button color="secondary" className="w-12 h-12" rounded={true}>
             <Image src="/react.svg" alt="React" fill />
           </Button>
           <Button color="secondary" className="w-12 h-12" rounded={true}>
-            <Image src="/typescript.svg" alt="React" fill />
+            <Image src="/typescript.svg" alt="TypeScript" fill />
           </Button>
           <Button color="secondary" className="w-12 h-12" rounded={true}>
-            <Image src="/tailwind.svg" alt="React" fill />
+            <Image src="/tailwind.svg" alt="Tailwind" fill />
           </Button>
-        </div>
-      </Card>
-      <Card>
-        <Heading className="bg-secondary p-1">Back End Development</Heading>
-        <div className="flex items-center mt-2 justify-around">
           <Button color="secondary" className="w-12 h-12" rounded={true}>
             <img
               src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1f8fcead3b_fdcad5ca.png"
-              alt="React"
+              alt="C#"
             />
           </Button>
         </div>
