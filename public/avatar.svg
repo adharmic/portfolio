@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2048 2048" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="Artboard1" x="0" y="0" width="2048" height="2048" style="fill:none;"/>
+    <g id="Artboard11" serif:id="Artboard1">
+        <g transform="matrix(1.23606,-0.448892,0.44823,1.23789,-776.465,150.128)">
+            <path d="M1245.54,1413.1C1326.92,1322.4 1359.37,1198.73 1393.32,1016" style="fill:none;stroke:rgb(1,0,57);stroke-width:7.07px;"/>
+        </g>
+        <g transform="matrix(1.31482,0,0,1.31676,-614.3,-297.088)">
+            <circle cx="1246.02" cy="1003.28" r="760.351" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <circle cx="1246.02" cy="1003.28" r="760.351"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1,0,0,2.1556,172.486,-1713.48)">
+                    <ellipse cx="1073.54" cy="1624.44" rx="538.329" ry="205.476" style="fill:none;stroke:rgb(1,0,57);stroke-width:4.21px;"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1.23606,-0.448892,0.44823,1.23789,-776.465,150.128)">
+            <path d="M1310.77,1318.21C1022.93,1405.78 820.557,1198.65 807.745,1068.09C799.29,981.934 825.38,783.791 824.716,794.5L795.873,770.323C793.153,773.526 760.129,789.4 759.113,793.477C591.642,1466 934.087,1609.58 1159.43,1496.05C1249.58,1450.64 1310.77,1318.21 1310.77,1318.21Z" style="fill:rgb(1,0,57);"/>
+        </g>
+        <g id="Layer1" transform="matrix(1.23606,-0.448892,0.44823,1.23789,-715.754,310.373)">
+            <path d="M1635.03,777.81C1759.64,1037.22 1399.3,1019.47 1318.92,989.436C1020.83,878.049 1015.9,648.74 1015.9,648.74C1015.9,648.74 984.198,823.047 778.422,840.35C726.241,844.737 616.26,632.205 737.673,542.233C844.452,463.106 918.319,515.796 918.319,515.796C918.319,515.796 1217.76,327.468 1328.7,491.502C1778.41,1156.4 1594.21,692.84 1635.03,777.81Z" style="fill:rgb(1,0,57);"/>
+        </g>
+        <g transform="matrix(1.23606,-0.448892,0.44823,1.23789,-777.726,184.021)">
+            <ellipse cx="1365.73" cy="1169.47" rx="108.563" ry="112.784" style="fill:none;stroke:rgb(1,0,57);stroke-width:7.07px;"/>
+        </g>
+        <g transform="matrix(1.23606,-0.448892,0.44823,1.23789,-1284.13,183.008)">
+            <ellipse cx="1365.73" cy="1169.47" rx="108.563" ry="112.784" style="fill:none;stroke:rgb(1,0,57);stroke-width:7.07px;"/>
+        </g>
+        <g transform="matrix(1.30439,-0.473705,0.508003,1.40296,-936.36,91.7423)">
+            <path d="M1132.56,1044.62C1250.52,1019.38 1267.94,1082.62 1276.66,1114.23" style="fill:none;stroke:rgb(1,0,57);stroke-width:6.46px;"/>
+        </g>
+        <g transform="matrix(1.23606,-0.448892,0.44823,1.23789,-776.465,150.128)">
+            <path d="M1238.75,988.165C1173.1,1014.77 1213.46,1120.03 1219.48,1211.11C1226.92,1323.57 1104.92,1348.12 1067.14,1242.36" style="fill:none;stroke:rgb(1,0,57);stroke-width:7.07px;"/>
+        </g>
+        <g transform="matrix(1.23606,-0.448892,0.44823,1.23789,-732.035,229.353)">
+            <path d="M770.15,925.251C759.213,891.543 737.338,824.128 639.366,849.291C613.662,855.893 526.065,1017.14 739.237,1102.35" style="fill:none;stroke:rgb(1,0,57);stroke-width:7.07px;"/>
+        </g>
+        <g transform="matrix(1.50034,0.259877,-0.376964,2.18274,-133.441,-2008.76)">
+            <ellipse cx="1128.55" cy="1450.91" rx="90.752" ry="41.881" style="fill:white;"/>
+        </g>
+        <g transform="matrix(1.31482,0,0,1.31676,-380.922,-448.558)">
+            <path d="M998.932,1418.97C1012.03,1459.03 1070.03,1478.47 1112.5,1450.98" style="fill:none;stroke:rgb(1,0,57);stroke-width:7.07px;"/>
+        </g>
+    </g>
+</svg>
