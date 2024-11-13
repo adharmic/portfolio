@@ -9,7 +9,11 @@ export default function Heading({
   children,
 }: PropsWithChildren<HeadingProps>) {
   return (
-    <div className={"border-b-2 border-foreground " + className}>
+    <div
+      className={
+        "border-b-2 border-foreground rounded-t 2xl:rounded-t-xl " + className
+      }
+    >
       {children}
     </div>
   );

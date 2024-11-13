@@ -7,8 +7,8 @@ import Image from "next/image";
 export default function Toolbox() {
   return (
     <Card className="grow" windowProps="grow">
-      <Heading>
-        <div className="p-2 font-bold bg-secondary flex items-center justify-between text-lg 2xl:text-5xl">
+      <Heading className="bg-secondary">
+        <div className="p-2 font-bold flex items-center justify-between text-lg 2xl:text-5xl">
           <h1>Toolbox</h1>
           <Minimize />
         </div>
