@@ -3,8 +3,8 @@ import Eye from "./Eye";
 
 export default function Avatar() {
   return (
-    <div className="w-52 h-52 rounded-full bg-foreground self-center mt-2">
-      <div className="-translate-y-3 border border-foreground w-52 h-52 rounded-full bg-white self-center mt-2">
+    <div className="w-52 aspect-square rounded-full bg-foreground self-center mt-2 2xl:w-1/2">
+      <div className="-translate-y-3 border border-foreground w-full aspect-square rounded-full bg-white self-center mt-2 ">
         <Eye id="left" />
         <Eye left="63%" id="right" />
         <Image

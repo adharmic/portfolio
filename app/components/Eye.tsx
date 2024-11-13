@@ -14,7 +14,7 @@ type Point = {
 };
 
 export default function Eye({ id, left, right }: EyeProps) {
-  const [position, setPosition] = useState<Point>({ x: 0, y: 0 });
+  const [position, setPosition] = useState<Point>({ x: 20, y: 20 });
   const parentRef = useRef<HTMLDivElement>(null);
 
   const clamp = (value: number, min: number, max: number): number => {
