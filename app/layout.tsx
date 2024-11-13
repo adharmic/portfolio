@@ -25,12 +25,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="h-full">
-      <head>
-        <style>
-          @import
-          url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-        </style>
-      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased flex min-h-full flex-col`}
       >

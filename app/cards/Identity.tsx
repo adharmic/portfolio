@@ -12,9 +12,9 @@ export default function Identity() {
       <div className="text-xs p-1 flex flex-col h-full ">
         <Avatar />
         <div className="m-4 text-base">
-          I'm Adithya - a <b>Cybersecurity Masters' Student</b> and{" "}
-          <b>full-time software engineer</b>. When I'm not working, I'm also a
-          multi-media artist, designer, and general tinkerer.
+          I am Adithya - a <b>Cybersecurity Masters Student</b> and{" "}
+          <b>full-time software engineer</b>. When I&apos;m not working,
+          I&apos;m also a multi-media artist, designer, and general tinkerer.
         </div>
         <div className="self-center mt-auto">
           <Button color="accent" text="Résumé" />
