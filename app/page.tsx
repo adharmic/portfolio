@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      <div className="flex grow">
+      <div className="flex grow w-full">
         <Identity />
         <Toolbox />
       </div>

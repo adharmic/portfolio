@@ -6,7 +6,7 @@ import Image from "next/image";
 
 export default function Toolbox() {
   return (
-    <Card>
+    <Card className="grow" windowProps="grow">
       <Heading>
         <div className="p-2 font-bold bg-secondary flex items-center justify-between text-lg">
           <h1>Toolbox</h1>
@@ -21,7 +21,7 @@ export default function Toolbox() {
         <Heading className="bg-secondary p-1">Programming</Heading>
         <div className="flex items-center mt-2 justify-around">
           <Button color="secondary" className="w-11 h-11" rounded={true}>
-            <Image src="/react.svg" alt="React" fill />
+            <Image src="/react.svg" alt="React" fill objectFit="cover" />
           </Button>
           <Button color="secondary" className="w-11 h-11" rounded={true}>
             <Image src="/typescript.svg" alt="TypeScript" fill />

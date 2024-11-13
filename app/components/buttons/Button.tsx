@@ -17,7 +17,7 @@ export default function Button({
   return (
     <div
       className={
-        "m-2 text-foreground bg-foreground hover:cursor-pointer w-fit " +
+        "m-2 text-foreground bg-foreground hover:cursor-pointer w-min-fit " +
         (rounded ? "rounded-full" : "rounded") +
         " " +
         className
