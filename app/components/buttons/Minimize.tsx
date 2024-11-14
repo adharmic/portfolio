@@ -1,7 +1,7 @@
 import Button from "./Button";
 
 type MinimizeProps = {
-  callback: Function;
+  callback?: (e?: any) => void;
 }
 
 export default function Minimize({ callback }: MinimizeProps) {
