@@ -32,7 +32,7 @@ body {
     linear-gradient(to bottom, var(--foreground) 1px, transparent 1px);
 
   font-family: "Fira Sans", monospace;
-  /* animation: scroll 20s linear infinite; */
+  animation: scroll 5s linear infinite;
 }
 
 @keyframes scroll {

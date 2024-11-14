@@ -19,7 +19,7 @@ export default function Toolbox() {
       </div>
       <Card>
         <Heading className="bg-secondary p-1 2xl:text-4xl">Programming</Heading>
-        <div className="flex items-center mt-2 justify-around">
+        <div className="flex items-center mt-2 justify-evenly">
           <Button
             color="secondary"
             className="w-11 aspect-square 2xl:w-24"
