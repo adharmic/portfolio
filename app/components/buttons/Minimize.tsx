@@ -1,7 +1,7 @@
 import Button from "./Button";
 
 type MinimizeProps = {
-  callback?: (e?: any) => void;
+  callback?: (e?: React.MouseEvent<HTMLButtonElement>) => void;
 }
 
 export default function Minimize({ callback }: MinimizeProps) {

@@ -7,7 +7,7 @@ type ButtonProps = {
   rounded?: boolean;
   className?: string;
   color?: string;
-  callback?: (e?: any) => void;
+  callback?: (e?: React.MouseEvent<HTMLButtonElement>) => void;
 };
 
 export default function Button({
