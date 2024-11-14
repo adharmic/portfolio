@@ -18,7 +18,7 @@ export default function Card({
     >
       <div
         className={
-          "text-base border border-foreground rounded -translate-y-1 grow bg-background flex flex-col 2xl:rounded-xl " +
+          "text-base border border-foreground rounded -translate-y-1 bg-background flex flex-col 2xl:rounded-xl " +
           className
         }
       >
