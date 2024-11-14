@@ -1,6 +1,7 @@
 import ExpandableCard from "../components/ExpandableCard";
 import DesignToolbox from "../toolboxes/DesignToolbox";
 import ProgrammingToolbox from "../toolboxes/ProgrammingToolbox";
+import VisualArtsToolbox from "../toolboxes/VisualArtsToolbox";
 
 export default function Toolbox() {
   return (
@@ -11,6 +12,7 @@ export default function Toolbox() {
       </div>
       <ProgrammingToolbox />
       <DesignToolbox />
+      <VisualArtsToolbox />
     </ExpandableCard>
   );
 }
